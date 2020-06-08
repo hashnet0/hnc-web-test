@@ -1,6 +1,6 @@
 FROM hnc-base:latest
 LABEL name="hnc-web-test"
-LABEL description="HashNet Container for testing web services"
+LABEL description="HashNet Container for testing the reverse proxy web server"
 LABEL maintainer="hashsploit <hashsploit@protonmail.com>"
 
 
