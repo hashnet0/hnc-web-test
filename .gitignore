@@ -1,0 +1,15 @@
+# Temporary files
+temp/
+tmp/
+*.lck
+*.tmp
+*.pid
+*.swp
+
+# General configs
+fs/srv/websocket/node_modules
+fs/etc/nginx/sites-enabled/*
+!fs/etc/nginx/sites-enabled/.gitkeep
+fs/etc/nginx/certs/*
+!fs/etc/nginx/certs/.gitkeep
+
