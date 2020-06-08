@@ -1,7 +1,7 @@
 # HashNet Container for testing the reverse proxy web server
 
 This Docker image generates a few test websites for
-testing the hnc-web service container.
+testing the [hnc-web](https://github.com/hashnet0/hnc-web) service container.
 
 - `site.local` is a basic virtual host with a Web Socket proxy test located in `/ws.html`.
 - `a.site.local` is another virtual host.
